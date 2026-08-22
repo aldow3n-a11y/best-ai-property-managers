@@ -24,7 +24,7 @@ Affiliate links to:
 - **TurboTenant** (free-tier landlord platform)
 - Plus 12 others across screening, maintenance, accounting, marketing, and AI productivity categories
 
-Email signup routes to `discus.leads@protonmail.com` via formsubmit.co (no account required).
+Email signup routes to `discus.leads@proton.me` via formsubmit.co (no account required).
 
 ## Next steps
 
